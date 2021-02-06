@@ -1,3 +1,3 @@
-# Terms of Service
+# Terminos de Servicio
 
-Edit this file to define the terms of service for your application.
+Estos son los terminos de servicio de los cursos de 3IG hechos en Platzi
